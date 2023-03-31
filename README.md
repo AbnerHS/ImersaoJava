@@ -9,7 +9,7 @@
 ### Resultado:
 
 <p align="center">
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/baf511f30e666bca1e4fa7e05984799f78a17db0/screenshots/dia1.png"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/screenshots/dia1.png?raw=true"/>
 </p>
 
 ## Dia 2:
@@ -21,10 +21,10 @@
 ### Resultado:
 
 <p align="center">
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/01aed250d7315d58db6c547feedd1963fda4c654/img/A%20Baleia.png" width="150" height="275"/>
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/01aed250d7315d58db6c547feedd1963fda4c654/img/As%20M%C3%BAmias%20e%20o%20Anel%20Perdido.png" width="150" height="275"/>
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/01aed250d7315d58db6c547feedd1963fda4c654/img/John%20Wick%204%20-%20Baba%20Yaga.png" width="150" height="275"/>
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/01aed250d7315d58db6c547feedd1963fda4c654/img/Shazam!%20F%C3%BAria%20dos%20Deuses.png" width="150" height="275"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/movie/A%20Baleia.png?raw=true" width="150" height="275"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/movie/As%20M%C3%BAmias%20e%20o%20Anel%20Perdido.png?raw=true" width="150" height="275"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/movie/John%20Wick%204%20-%20Baba%20Yaga.png?raw=true" width="150" height="275"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/movie/Shazam!%20F%C3%BAria%20dos%20Deuses.png?raw=true" width="150" height="275"/>
 </p>
 
 
@@ -41,8 +41,8 @@
 ### Resultado:
 
 <p align="center">
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/87793cd4a39fd5617992a81a74543d16da531d33/img/nasa/Cosmic%20Clouds%20in%20Cygnus.png" width="512" height="391"/>
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/87793cd4a39fd5617992a81a74543d16da531d33/img/nasa/M51%20-%20The%20Whirlpool%20Galaxy%20from%20Hubble.png" width="540" height="407"/>
+    <img src="hhttps://github.com/AbnerHS/ImersaoJava/blob/main/img/nasa/Cosmic%20Clouds%20in%20Cygnus.png?raw=true" width="512" height="391"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/nasa/M51%20-%20The%20Whirlpool%20Galaxy%20from%20Hubble.png?raw=true" width="540" height="407"/>
 </p>
 
 
@@ -55,5 +55,5 @@
 ## Resultado:
 
 <p align="center">
-    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/stickers/screenshots/dia4.png?raw=true" width="600" height="382">
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/screenshots/dia4.png?raw=true" width="600" height="382">
 </p>
