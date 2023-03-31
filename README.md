@@ -41,14 +41,14 @@
 ### Resultado:
 
 <p align="center">
-    <img src="hhttps://github.com/AbnerHS/ImersaoJava/blob/main/img/nasa/Cosmic%20Clouds%20in%20Cygnus.png?raw=true" width="512" height="391"/>
+    <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/nasa/Cosmic%20Clouds%20in%20Cygnus.png?raw=true" width="512" height="391"/>
     <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/img/nasa/M51%20-%20The%20Whirlpool%20Galaxy%20from%20Hubble.png?raw=true" width="540" height="407"/>
 </p>
 
 
 ## Dia 4:
 
-* Foi criado um novo projeto chamado de `api-languages`, que consiste em uma REST API utilizando o framework Spring Boot e o banco de dados NoSQL MongoDB. Essa API manipula a classe Language, com possui os atributos de `title`, `image` e `ranking`.
+* Foi criado um novo projeto chamado de `api-languages` [nesse repositório](https://github.com/AbnerHS/ImersaoJavaApi), que consiste em uma REST API utilizando o framework Spring Boot e o banco de dados NoSQL MongoDB. Essa API manipula a classe Language, com possui os atributos de `title`, `image` e `ranking`.
 
 * Foram criados os `endpoints` de CRUD (Create, Read, Update e Delete), seguindo os padrões de HTTP Status Code.
 
@@ -57,3 +57,9 @@
 <p align="center">
     <img src="https://github.com/AbnerHS/ImersaoJava/blob/main/screenshots/dia4.png?raw=true" width="600" height="382">
 </p>
+
+## Dia 5:
+
+* Foi criada uma imagem Docker do projeto da API e salvo no [Docker Hub](https://hub.docker.com/r/abnerh22/apilanguages).
+
+* Foi feito o deploy da API no serviço de cloud da [Microsoft Azure](https://azure.microsoft.com/) e está disponível nesse [link](https://apilanguage.azurewebsites.net/languages).
